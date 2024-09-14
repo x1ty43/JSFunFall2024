@@ -64,7 +64,7 @@ When you finish installing, you should see Git Bash on your computer. Open it, t
 
 Node.js is a JavaScript runtime engine. It allows you to run JavaScript programs outside of Chrome, Safari, Edge or another web browser.
 
-You will need to have the latest LTS version of Node installed as of February 2024 (20.x). If you already have Node.js installed, type `node -v` in Git Bash. If you do not have the latest version, you will need to reinstall it again.
+You will need to have the latest LTS version of Node installed as of September 2024 (20.x). If you already have Node.js installed, type `node -v` in Git Bash. If you do not have the latest version, you will need to reinstall it again.
 
 To install or resinstall Node.js, go to https://nodejs.org/en/ and click on the _20.x.x LTS_ version.
 

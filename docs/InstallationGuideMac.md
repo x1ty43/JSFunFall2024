@@ -18,7 +18,7 @@ We are going to install software over the command line, so before starting, open
 
 Before class began, you should have received emails and training from CanCode Communities about on how to install, setup, and use Microsoft Teams.
 
-You will need to give Teams permissions for _Screen Recording_, because we ask students to share their screens during class. [Here is how you can enable this on Monterey, Big Sur, and Catalina.](https://www.marquette.edu/microsoft-teams/teams-macos-access.php)
+You will need to give Teams permissions for _Screen Recording_, because we ask students to share their screens during class. See "Turn on Screen Sharing" in [Microsoft's "New Teams for Mac - Overview and prerequisites" article](https://td.cscc.edu/TDClient/68/Portal/KB/ArticleDet?ID=489) or refer to the "Trainee Success Welcome Guide".
 
 ## Xcode
 
@@ -56,8 +56,7 @@ To install git, type this in your terminal:
 
 ```bash
 brew install git
-brew tap microsoft/git
-brew install --cask git-credential-manager-core
+brew install --cask git-credential-manager
 ```
 
 When it's finished, type `git --version` to confirm that it has installed.
@@ -68,7 +67,7 @@ If you already have git installed, its a good idea to update it. If you installe
 
 Node.js is a JavaScript runtime engine. It allows you to run JavaScript programs outside of Chrome, Safari, Edge or another web browser.
 
-You will need to have the latest LTS version of Node installed as of February 2024 (20.x). If you already have Node.js installed, type `node -v` in your terminal. If you do not have the latest version, you can do one of the following to things:
+You will need to have the latest LTS version of Node installed as of September 2024 (20.x). If you already have Node.js installed, type `node -v` in your terminal. If you do not have the latest version, you can do one of the following to things:
 
 1. [Upgrade Node.js with whatever you originally installed Node.js with.](https://flaviocopes.com/how-to-update-node/) If you have Node.js projects on your computer and you wish to maintain them, this could break your existing projects.
 2. Install multiple version of Node.js on your computer with NVM. See the _Node Version Manager (NVM)_ section of the [Linux Installation Guide](InstallationGuideLinuxAndNVM.md#node-version-manager-nvm).
