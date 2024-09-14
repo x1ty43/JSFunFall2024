@@ -80,18 +80,6 @@ Update NPM with:
 npm install -g npm@latest
 ```
 
-### ESLint
-
-ESLint is a linter, meaning that it will point out potential errors while you are typing in a code editor like Visual Studio Code.
-
-To install ESLint, type this in Git Bash:
-
-```bash
-npm install -g eslint
-```
-
-When it’s finished, type `eslint -v` in Git Bash to confirm it has installed.
-
 ## Visual Studio Code Setup and Extensions
 
 ### Setting Git Bash as your Default Shell

@@ -88,18 +88,6 @@ Update NPM with:
 npm install -g npm@latest
 ```
 
-### ESLint
-
-ESLint is a linter, meaning that it will point out potential errors in real-time while you are typing in a code editor like Visual Studio Code.
-
-To install ESLint, type:
-
-```bash
-npm install -g eslint
-```
-
-When it’s finished, type `eslint -v` in your terminal to confirm it is now installed.
-
 ## Visual Studio Code (Recommended) and Extensions
 
 Visual Studio Code is an IDE, which is an intelligent code editor. We will be teaching with Visual Studio Code and highly recommend that you use it too. If you are experienced with programming and the command line, and you believe that you can translate whatever we teach you in Visual Studio Code to your editor of choice, you may opt for another editor, but we will not be able to help you if problems arise.

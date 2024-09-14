@@ -1,0 +1,15 @@
+{
+  "name": "jsfunfall2024",
+  "version": "1.0.0",
+  "author": "CanCode Communities",
+  "description": "CanCode Communities' JavaScript Fundamentals Class",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbanyCanCodeCourses/JSFunFall2024#readme"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.10.0",
+    "eslint": "^9.10.0"
+  }
+}
