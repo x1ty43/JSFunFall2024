@@ -4,12 +4,16 @@
   "author": "CanCode Communities",
   "description": "CanCode Communities' JavaScript Fundamentals Class",
   "type": "module",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AlbanyCanCodeCourses/JSFunFall2024#readme"
   },
   "devDependencies": {
     "@eslint/js": "^9.10.0",
-    "eslint": "^9.10.0"
+    "eslint": "^9.10.0",
+    "jest": "^29.7.0"
   }
 }
