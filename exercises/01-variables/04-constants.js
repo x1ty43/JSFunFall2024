@@ -5,3 +5,6 @@
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+
+let myNumber = 3.14;
+const myNumber = Pie; 
