@@ -4,5 +4,4 @@
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
-
-const sum = 0;
+const sum = 11 + 12;

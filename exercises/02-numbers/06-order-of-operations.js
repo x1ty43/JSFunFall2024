@@ -5,4 +5,4 @@
 
 // WRITE YOUR ANSWER BELOW THIS LINE
 const result = 100 * (3 + 5);
-const result = 3 + 5 * 100;
+

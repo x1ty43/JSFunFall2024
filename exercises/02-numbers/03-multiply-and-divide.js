@@ -7,4 +7,4 @@ const ONE_HUNDRED = 100;
 
 // WRITE YOUR ANSWER BELOW THIS LINE
 
-const percentage = 1 % 5 * 100;
+const percentage = (1 / 5) * ONE_HUNDRED;
