@@ -16,4 +16,5 @@ const place = "New Jersey"; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
-let newPlace = 
+let space = place.indexOf(" ")
+let newPlace = place.substring(space + 1)
