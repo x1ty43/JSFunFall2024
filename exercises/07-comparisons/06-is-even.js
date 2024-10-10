@@ -13,4 +13,6 @@ if (num % 2 === 0 ) {
     isEven = true;
 } else {
     isEven = false;
-}
+} 
+// the % operator outputs the remainder of division
+// 8 % 2 would output 0
