@@ -15,6 +15,6 @@ const calculateTotal = (subtotal, tax) => {
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
-let subtotal = 50.00;
-let tax = 2;
-let total = calculateTotal(subtotal, tax);
+const subtotal = 50.00;
+const tax = 0.02;
+const total = calculateTotal(subtotal, tax);
